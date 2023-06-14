@@ -1,8 +1,9 @@
 ### Hi there, I'm Tocky! 👋
 
-![tocky's github stats](https://github-readme-stats.vercel.app/api?username=tttocklll&count_private=true&show_icons=true)
+![tocky's github stats](https://github-readme-stats-tttocklll.vercel.app/api?username=tttocklll&show_icons=true&theme=transparent&card_width=500&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttocklll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats-tttocklll.vercel.app/api/top-langs/?username=tttocklll&theme=transparent&card_width=500)
 
 
 <!--
