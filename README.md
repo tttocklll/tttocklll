@@ -3,9 +3,6 @@
 ![tocky's github stats](https://github-readme-stats-tttocklll.vercel.app/api?username=tttocklll&show_icons=true&theme=transparent&card_width=500&rank_icon=github)
 
 
-![Top Langs](https://github-readme-stats-tttocklll.vercel.app/api/top-langs/?username=tttocklll&theme=transparent&card_width=500)
-
-
 <!--
 **tttocklll/tttocklll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
